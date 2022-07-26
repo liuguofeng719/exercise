@@ -1,0 +1,43 @@
+# maven ignore
+target
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+# eclipse ignore
+.settings
+.project
+.classpath
+
+#gradle ignore
+build
+.gradle
+gradle
+gradlew
+gradlew.bat
+*.gradle
+gradle.*
+
+# idea ignore
+.idea
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+bin
+logs
+*.txt
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+Thumbs.db
+*.DS_Store
+README.html
+
